@@ -670,7 +670,7 @@ img{
 }
 
 .header-wrap .header-logo img {
-  width: 120px;
+  width: auto;
   height: 110px;
   margin: 0;
 }
@@ -866,8 +866,8 @@ img{
   }
 
   .header-wrap .header-logo img {
-    width: 145px;
-    height: 69px;
+    width: auto;
+    height: 80px;
   }
 
   .header-wrap .header-nav-wrap {
